@@ -1325,10 +1325,10 @@ pre.allowed-tags {
 }
 
 #logo a {
-	background: transparent url(../images/light-green/logo.png) no-repeat 0 0;
+	background: transparent url(../images/MyMoveBuddyHeader.png) no-repeat 0 0;
 	display: block;
-	height: 77px; /* Set this to your logo image height */
-	width: 247px; /* Set this to your logo image width */
+	height: 120px; /* Set this to your logo image height */
+	width: 500px; /* Set this to your logo image width */
 	overflow: hidden;
 	text-indent: -9999em;
 }
